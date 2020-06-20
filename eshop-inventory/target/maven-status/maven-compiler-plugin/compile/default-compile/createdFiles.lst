@@ -1,0 +1,8 @@
+com\roncoo\eshop\inventory\controller\UserController.class
+com\roncoo\eshop\inventory\dao\impl\RedisDAOImpl.class
+com\roncoo\eshop\inventory\Application.class
+com\roncoo\eshop\inventory\service\UserService.class
+com\roncoo\eshop\inventory\mapper\UserMapper.class
+com\roncoo\eshop\inventory\service\impl\UserServiceImpl.class
+com\roncoo\eshop\inventory\dao\RedisDAO.class
+com\roncoo\eshop\inventory\model\User.class
